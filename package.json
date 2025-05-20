@@ -1,0 +1,27 @@
+{
+  "name": "ticker-memo",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "tailwindcss": "latest",
+    "postcss": "latest",
+    "autoprefixer": "latest",
+    "daisyui": "latest",
+    "mongoose": "latest",
+    "next-auth": "latest",
+    "@resendlabs/sdk": "latest",
+    "stripe": "latest",
+    "@stripe/stripe-js": "latest",
+    "chart.js": "latest",
+    "react-chartjs-2": "latest"
+},
+  "devDependencies": {}
+}
